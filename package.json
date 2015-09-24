@@ -1,0 +1,14 @@
+{
+  "name": "express-parameters",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.10.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
